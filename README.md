@@ -1,4 +1,4 @@
 # newproject
 this is my first git repository
 <br>
-author - MA
+author - MA (SGNR)
